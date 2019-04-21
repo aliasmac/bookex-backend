@@ -1,6 +1,6 @@
 # BookEx - Backend
 Backend to a book search and exchange app - in Node.JS and Express, with MongoDB/Mongoose database connection.
-Frontend found here: https://github.com/CiaranMn/bookex-frontend
+Frontend found here: https://github.com/thexyman/bookex-frontend
 
 ## How it works for users
 - On app load the home page displays a selection of books users have added to their favourites and wishlists, and on the right shows a leaderboard of books people are currently reading, and how many readers each has.
